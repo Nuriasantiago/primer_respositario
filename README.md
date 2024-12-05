@@ -1,2 +1,2 @@
 # Actividades_optativas
-Este es mi primer respositario 
+Estas es una de las actividades optativas de la asignatura de modelos estadísticos
